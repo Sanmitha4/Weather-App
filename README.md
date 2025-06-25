@@ -15,11 +15,6 @@ A comprehensive Python desktop application for weather forecasting with real-tim
 - **SQLite Database** - Automatic storage of search history and forecasts
 - **Responsive Design** - Large, readable interface with improved box sizes
   
-  ### **Preview**
-  ![image](https://github.com/user-attachments/assets/e3c32ff1-c660-44fb-8de3-d813ecfeee07)
-![image](https://github.com/user-attachments/assets/cec5307c-f0dd-49b3-9f70-af33db63b035)
-
-
   ### 📊 **Database Management Tools**
 - **Database Viewer** - Advanced GUI tool for data exploration
 - **Statistics Dashboard** - Comprehensive weather data analytics
@@ -31,6 +26,9 @@ A comprehensive Python desktop application for weather forecasting with real-tim
 - **Database Checker** - Comprehensive database analysis and validation
 - **Schema Viewer** - Explore database structure and relationships
 
+ ### **Preview**
+  ![image](https://github.com/user-attachments/assets/e3c32ff1-c660-44fb-8de3-d813ecfeee07)
+![image](https://github.com/user-attachments/assets/cec5307c-f0dd-49b3-9f70-af33db63b035)
 
 ### Installation
 
