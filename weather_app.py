@@ -14,7 +14,7 @@ class WeatherForecastApp:
         self.root.configure(bg='#e3f2fd')
         
         # OpenWeather API Configuration
-        self.api_key = "da2bcf50621b38d59d28ec045cd4dab0"  # Replace with your actual API key
+        self.api_key = "   "  # Replace with your actual API key
         self.base_url = "http://api.openweathermap.org/data/2.5"
         
         # Initialize database
