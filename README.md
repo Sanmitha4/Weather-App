@@ -1,4 +1,4 @@
-#🌤️ Weather Forecasting App
+###🌤️ Weather Forecasting App
 
 A comprehensive Python desktop application for weather forecasting with real-time data, 7-day forecasts, and intelligent search history management.
 
@@ -14,6 +14,11 @@ A comprehensive Python desktop application for weather forecasting with real-tim
 - **Search Functionality** - Find weather for any city worldwide
 - **SQLite Database** - Automatic storage of search history and forecasts
 - **Responsive Design** - Large, readable interface with improved box sizes
+  
+  ### **Preview**
+  ![image](https://github.com/user-attachments/assets/e3c32ff1-c660-44fb-8de3-d813ecfeee07)
+![image](https://github.com/user-attachments/assets/cec5307c-f0dd-49b3-9f70-af33db63b035)
+
 
   ### 📊 **Database Management Tools**
 - **Database Viewer** - Advanced GUI tool for data exploration
