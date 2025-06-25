@@ -139,7 +139,7 @@ weather-forecasting-app/
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [OpenWeatherMap](https://openweathermap.org/) for weather data API
 - Python tkinter for the GUI framework
