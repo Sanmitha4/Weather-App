@@ -1,4 +1,4 @@
-###🌤️ Weather Forecasting App
+🌤️*** Weather Forecasting App***
 
 A comprehensive Python desktop application for weather forecasting with real-time data, 7-day forecasts, and intelligent search history management.
 
